@@ -12,9 +12,9 @@ a realistic hourly demand.
 
 Scenario 2: Fixed electricity prices and realistic hot water demand
 
-Scenario 3: Dynamic electricity prices and standardized hot water demand
-
 In this scenario, dynamic electricity prices were considered and standardized hot water demand.
+
+Scenario 3: Dynamic electricity prices and standardized hot water demand
 
 In this scenario a photo-voltaic power system is integrated along with heat pump in order to provide electricity
 and reduce the total cost of purchased electricity. The electricity price for this model is constant.
