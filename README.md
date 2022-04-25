@@ -1,4 +1,4 @@
-# Modelling-of-Sustainable-Energy-Systems-using-OR
+# Modelling-of-Sustainable-Energy-Systems
 
 In this report the modelling and optimization of a Domestic Hot Water Heat Pump (DHWHP) under given and
 chosen conditions were undertaken. A highly simplified model of heat pump was investigated. The optimization
